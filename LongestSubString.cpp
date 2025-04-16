@@ -39,6 +39,6 @@ int main()
    string s = "elephantt";
    Solution obj;
    string substr = obj.LongestSubstring(s);
-   cout << "length of longest sub-string without repeat : " << substr << endl;
+   cout << "longest sub-string without repeat : " << substr << endl;
     return 0;
 }
